@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🎓 &nbsp; Final Year CSE Student at Jaypee Institute of Information Technology 
-- 💼 &nbsp; SDE Intern at Daphnis Labs Private Limited
-- 💼 &nbsp; Ex-Android Developer Intern at Daphnis Labs Private Limited
-- 💼 &nbsp; Mentor at Mentors Without Borders
+- 💼 &nbsp; Instructor at CampK-12
 - 💼 &nbsp; Technical Coordinator at Developer Student Clubs JIIT128
+- 💼 &nbsp; Ex-SDE Intern & Ex-Android Developer Intern at Daphnis Labs 
+- 💼 &nbsp; Ex-Mentor at Mentors Without Borders
 - 💼 &nbsp; Ex-Product Development Support & Ex-Android Developer Intern at Sugandh Tea Private Limited
 - 💬 &nbsp; ACTIVELY LOOKING FOR FULL-TIME OPPORTUNITIES
 

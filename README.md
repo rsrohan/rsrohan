@@ -18,13 +18,14 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; Final Year CSE Student at Jaypee Institute of Information Technology 
-- 💼 &nbsp; Instructor at CampK-12
-- 💼 &nbsp; Technical Coordinator at Developer Student Clubs JIIT128
+- 💼 &nbsp; Lead Mobility Engineer (Android) at Medi360
+- 🎓 &nbsp; Fresher 2021 
+<!-- - 💼 &nbsp; Ex-Instructor at CampK-12
+- 💼 &nbsp; Ex-Technical Coordinator at Developer Student Clubs JIIT128
 - 💼 &nbsp; Ex-SDE Intern & Ex-Android Developer Intern at Daphnis Labs 
 - 💼 &nbsp; Ex-Mentor at Mentors Without Borders
-- 💼 &nbsp; Ex-Product Development Support & Ex-Android Developer Intern at Sugandh Tea Private Limited
-- 💬 &nbsp; ACTIVELY LOOKING FOR FULL-TIME OPPORTUNITIES
+- 💼 &nbsp; Ex-Product Development Support & Ex-Android Developer Intern at Sugandh Tea Private Limited -->
+- 💬 &nbsp; 
 
 <!-- - 🌱 &nbsp; Volunteer at N -->
 <!-- - ✍️ &nbsp;  -->

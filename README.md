@@ -18,24 +18,24 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 💼 &nbsp; Lead Mobility Engineer (Android) at Medi360
+- 💼 &nbsp; Lead Mobility Engineer at Medi360
 - 🎓 &nbsp; Fresher 2021 
-<!-- - 💼 &nbsp; Ex-Instructor at CampK-12
-- 💼 &nbsp; Ex-Technical Coordinator at Developer Student Clubs JIIT128
+- 💼 &nbsp; Ex - (Coding Instructor, Technical Coordinator, Product Developer Support, SDE Intern, Android Intern)
+<!-- - 💼 &nbsp; Ex-Technical Coordinator at Developer Student Clubs JIIT128
 - 💼 &nbsp; Ex-SDE Intern & Ex-Android Developer Intern at Daphnis Labs 
 - 💼 &nbsp; Ex-Mentor at Mentors Without Borders
 - 💼 &nbsp; Ex-Product Development Support & Ex-Android Developer Intern at Sugandh Tea Private Limited -->
-- 💬 &nbsp; 
+- 💬 &nbsp; Keep Growing!
 
 <!-- - 🌱 &nbsp; Volunteer at N -->
 <!-- - ✍️ &nbsp;  -->
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | C++ | Python | JavaScript
-- 🌐 &nbsp; Android | Node.js | Machine Learning
-- 🛢 &nbsp; Firebase | AWS
-- 🔧 &nbsp; GitHub | API Integration
+- 💻 &nbsp; Java | Swift | C++ | Python | JavaScript
+- 🌐 &nbsp; Android | iOS | Node.js 
+- 🛢 &nbsp; Firebase | AWS 
+- 🔧 &nbsp; GitHub | BitBucket | API Integration
 <!-- - 🖥 &nbsp;  -->
 
 <br/>

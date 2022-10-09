@@ -14,17 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2> I'm Rohan.</h2>
+<h2> I'm Rohan Verma.</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 💼 &nbsp; Lead Mobility Engineer at Medi360
-- 🎓 &nbsp; Fresher 2021 
-- 💼 &nbsp; Ex - (Coding Instructor, Technical Coordinator, Product Developer Support, SDE Intern, Android Intern)
+- 💼 &nbsp; Lead Mobility Engineer @ Medi360
+- 💼 &nbsp; Past Experiences - (Coding Instructor, Technical Coordinator, Product Developer Support)
 <!-- - 💼 &nbsp; Ex-Technical Coordinator at Developer Student Clubs JIIT128
-- 💼 &nbsp; Ex-SDE Intern & Ex-Android Developer Intern at Daphnis Labs 
-- 💼 &nbsp; Ex-Mentor at Mentors Without Borders
-- 💼 &nbsp; Ex-Product Development Support & Ex-Android Developer Intern at Sugandh Tea Private Limited -->
+- 💼 &nbsp; Ex-SDE Intern & Ex-Android Developer Intern @ Daphnis Labs 
+- 💼 &nbsp; Ex-Mentor @ Mentors Without Borders
+- 💼 &nbsp; Ex-Product Development Support & Ex-Android Developer Intern @ Sugandh Tea Private Limited -->
 - 💬 &nbsp; Keep Growing!
 
 <!-- - 🌱 &nbsp; Volunteer at N -->
@@ -32,8 +31,8 @@ Here are some ideas to get you started:
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | Swift | C++ | Python | JavaScript
-- 🌐 &nbsp; Android | iOS | Node.js 
+- 💻 &nbsp; Java | Swift | JavaScript | C#
+- 🌐 &nbsp; Android | iOS | Node.js | .Net
 - 🛢 &nbsp; Firebase | AWS 
 - 🔧 &nbsp; GitHub | BitBucket | API Integration
 <!-- - 🖥 &nbsp;  -->

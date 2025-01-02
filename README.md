@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 💼 &nbsp; Lead Mobility Engineer @ Medi360
-- 💼 &nbsp; Past Experiences - (Coding Instructor, Technical Coordinator, Product Developer Support)
+- 💼 &nbsp; Senior Software Engineer @ TechnologyPORT
 <!-- - 💼 &nbsp; Ex-Technical Coordinator at Developer Student Clubs JIIT128
 - 💼 &nbsp; Ex-SDE Intern & Ex-Android Developer Intern @ Daphnis Labs 
 - 💼 &nbsp; Ex-Mentor @ Mentors Without Borders

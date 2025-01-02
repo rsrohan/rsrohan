@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 - 💼 &nbsp; Ex-SDE Intern & Ex-Android Developer Intern @ Daphnis Labs 
 - 💼 &nbsp; Ex-Mentor @ Mentors Without Borders
 - 💼 &nbsp; Ex-Product Development Support & Ex-Android Developer Intern @ Sugandh Tea Private Limited -->
-- 💬 &nbsp; Keep Growing!
 
 <!-- - 🌱 &nbsp; Volunteer at N -->
 <!-- - ✍️ &nbsp;  -->
